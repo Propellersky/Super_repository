@@ -1,0 +1,51 @@
+.relative{
+  position: relative;
+  left: 4%;
+  top:10% ;
+  width: 500px;
+  height: 250px;
+  border: 3px solid chocolate;
+  border-radius: 10px;
+  
+
+}
+.absolute{
+  position: absolute;
+  top: 253px;
+  right: 0%;
+  width: 600px;
+  height: 250px;
+  border: 3px solid blue;
+  border-radius: 20px;
+}
+.relative2{ 
+  position: relative;
+  width: 1000px;
+  height: 200px;
+  border: 3px solid green;
+
+}
+.absolute2{
+  position: absolute;
+  top: 3%;
+  right: 10px;
+  width: 400px;
+  height: 150px;
+  border: 2px solid red;
+  
+}
+h1{
+    text-align: center;
+    margin-block-start: 0.30em;
+    margin-block-end: 1em;
+    
+}
+h4{
+    text-align: center;
+    margin: 1em;
+}
+h5{
+    text-align: center;
+    margin: 1em;
+    
+}
