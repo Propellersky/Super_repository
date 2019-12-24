@@ -1,5 +1,4 @@
-.relative{margin-block-start: 1em;
-  
+.relative{
   font-family: 'Courier New', Courier, monospace;
   position: relative;
   left: 6em;
@@ -14,7 +13,7 @@
 .absolute{
   right: 1px;
   position: absolute;
-  top: 260px;
+  top: 254px;
   width: 600px;
   height: 250px;
   border: 3px solid blue;
